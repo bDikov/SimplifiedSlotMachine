@@ -1,0 +1,10 @@
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\bin\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.deps.json
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\bin\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.dll
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\bin\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.pdb
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\obj\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.csproj.AssemblyReference.cache
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\obj\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\obj\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.AssemblyInfoInputs.cache
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\obj\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.AssemblyInfo.cs
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\obj\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.csproj.CoreCompileInputs.cache
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\obj\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.dll
+C:\Frontend\Projects\SlotMachine\slot-machine-main\slot-machine-main\SimplifiedSlotMachine.Common\obj\Debug\netcoreapp3.1\SimplifiedSlotMachine.Common.pdb

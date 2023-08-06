@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Services\\SimplifiedSlotMachine.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Common\\SimplifiedSlotMachine.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Common\\SimplifiedSlotMachine.Common.csproj",
+        "projectName": "SimplifiedSlotMachine.Common",
+        "projectPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Common\\SimplifiedSlotMachine.Common.csproj",
+        "packagesPath": "C:\\Users\\boncho.dikov\\.nuget\\packages\\",
+        "outputPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boncho.dikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Data\\SimplifiedSlotMachine.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Data\\SimplifiedSlotMachine.Data.csproj",
+        "projectName": "SimplifiedSlotMachine.Data",
+        "projectPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Data\\SimplifiedSlotMachine.Data.csproj",
+        "packagesPath": "C:\\Users\\boncho.dikov\\.nuget\\packages\\",
+        "outputPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boncho.dikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Services\\SimplifiedSlotMachine.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Services\\SimplifiedSlotMachine.Services.csproj",
+        "projectName": "SimplifiedSlotMachine.Services",
+        "projectPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Services\\SimplifiedSlotMachine.Services.csproj",
+        "packagesPath": "C:\\Users\\boncho.dikov\\.nuget\\packages\\",
+        "outputPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boncho.dikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Common\\SimplifiedSlotMachine.Common.csproj": {
+                "projectPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Common\\SimplifiedSlotMachine.Common.csproj"
+              },
+              "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Data\\SimplifiedSlotMachine.Data.csproj": {
+                "projectPath": "C:\\Frontend\\Projects\\SlotMachine\\slot-machine-main\\slot-machine-main\\SimplifiedSlotMachine.Data\\SimplifiedSlotMachine.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
